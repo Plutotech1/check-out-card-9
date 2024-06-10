@@ -9,7 +9,7 @@
 <div>
     <h1 align="center">The final look of the website</h1>
     <div align="center">
-        <img src="https://github.com/Plutotech1/Error-page-7/blob/main/Pluto%20Tech%20IMG.PNG" width="99%">
+        <img src="https://github.com/Plutotech1/check-out-card-9/blob/main/Pluto%20Tech%20IMG.PNG" width="49%">
     </div>
 </div>
 <br /><br />
